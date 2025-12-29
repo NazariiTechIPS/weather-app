@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+  @apply flex flex-col items-center min-h-dvh bg-black/80 text-white text-lg;
+}
+
+#root{
+  @apply flex-1 w-full px-5 py-4;
+}

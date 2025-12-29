@@ -1,0 +1,1 @@
+export const secondsUndoDeletion = 5000;
